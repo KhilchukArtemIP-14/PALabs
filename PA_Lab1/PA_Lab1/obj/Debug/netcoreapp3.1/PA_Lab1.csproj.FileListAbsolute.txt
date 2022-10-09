@@ -1,0 +1,16 @@
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\bin\Debug\netcoreapp3.1\PA_Lab1.exe
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\bin\Debug\netcoreapp3.1\PA_Lab1.deps.json
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\bin\Debug\netcoreapp3.1\PA_Lab1.runtimeconfig.json
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\bin\Debug\netcoreapp3.1\PA_Lab1.runtimeconfig.dev.json
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\bin\Debug\netcoreapp3.1\PA_Lab1.dll
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\bin\Debug\netcoreapp3.1\PA_Lab1.pdb
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\obj\Debug\netcoreapp3.1\PA_Lab1.AssemblyInfoInputs.cache
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\obj\Debug\netcoreapp3.1\PA_Lab1.AssemblyInfo.cs
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\obj\Debug\netcoreapp3.1\PA_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\obj\Debug\netcoreapp3.1\PA_Lab1.dll
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\obj\Debug\netcoreapp3.1\PA_Lab1.pdb
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\obj\Debug\netcoreapp3.1\PA_Lab1.genruntimeconfig.cache
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\bin\Debug\netcoreapp3.1\Docker.DotNet.dll
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\obj\Debug\netcoreapp3.1\PA_Lab1.csproj.CopyComplete
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\obj\Debug\netcoreapp3.1\PA_Lab1.csproj.AssemblyReference.cache

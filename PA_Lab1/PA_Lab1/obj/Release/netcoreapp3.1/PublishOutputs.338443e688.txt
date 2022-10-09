@@ -1,0 +1,7 @@
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\bin\Release\netcoreapp3.1\publish\PA_Lab1.exe
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\bin\Release\netcoreapp3.1\publish\PA_Lab1.dll
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\bin\Release\netcoreapp3.1\publish\PA_Lab1.deps.json
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\bin\Release\netcoreapp3.1\publish\PA_Lab1.runtimeconfig.json
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\bin\Release\netcoreapp3.1\publish\PA_Lab1.pdb
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\bin\Release\netcoreapp3.1\publish\Docker.DotNet.dll
+C:\Users\Artem\source\repos\PA_Lab1\PA_Lab1\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
