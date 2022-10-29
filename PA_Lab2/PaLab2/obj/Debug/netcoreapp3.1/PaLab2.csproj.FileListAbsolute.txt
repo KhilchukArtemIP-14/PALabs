@@ -1,0 +1,13 @@
+C:\Users\Artem\source\repos\PaLab2\PaLab2\bin\Debug\netcoreapp3.1\PaLab2.exe
+C:\Users\Artem\source\repos\PaLab2\PaLab2\bin\Debug\netcoreapp3.1\PaLab2.deps.json
+C:\Users\Artem\source\repos\PaLab2\PaLab2\bin\Debug\netcoreapp3.1\PaLab2.runtimeconfig.json
+C:\Users\Artem\source\repos\PaLab2\PaLab2\bin\Debug\netcoreapp3.1\PaLab2.runtimeconfig.dev.json
+C:\Users\Artem\source\repos\PaLab2\PaLab2\bin\Debug\netcoreapp3.1\PaLab2.dll
+C:\Users\Artem\source\repos\PaLab2\PaLab2\bin\Debug\netcoreapp3.1\PaLab2.pdb
+C:\Users\Artem\source\repos\PaLab2\PaLab2\obj\Debug\netcoreapp3.1\PaLab2.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\PaLab2\PaLab2\obj\Debug\netcoreapp3.1\PaLab2.AssemblyInfoInputs.cache
+C:\Users\Artem\source\repos\PaLab2\PaLab2\obj\Debug\netcoreapp3.1\PaLab2.AssemblyInfo.cs
+C:\Users\Artem\source\repos\PaLab2\PaLab2\obj\Debug\netcoreapp3.1\PaLab2.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\PaLab2\PaLab2\obj\Debug\netcoreapp3.1\PaLab2.dll
+C:\Users\Artem\source\repos\PaLab2\PaLab2\obj\Debug\netcoreapp3.1\PaLab2.pdb
+C:\Users\Artem\source\repos\PaLab2\PaLab2\obj\Debug\netcoreapp3.1\PaLab2.genruntimeconfig.cache
